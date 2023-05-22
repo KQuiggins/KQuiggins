@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a Software Developer and a full-time student who loves to learn and create full-stack applications.
+I am a Software Developer/Freelancer who loves creating full stack MERN applications and contributing to open source.
 
 *   🌍  I'm based in Louisville, Kentucky
-*   🖥️  See my portfolio at [Ken's Code](http://kquiggins.github.io/hugo_blog/)
+*   🖥️  See my portfolio at [Ken's Code](https://kashfamilyvalues.editorx.io/kens-code)
 *   ✉️  You can contact me at [kashfamilyvalues@gmail.com](mailto:kashfamilyvalues@gmail.com)
-*   🚀  I'm currently working on [flask-blog](http://kens-flask-app.herokuapp.com/)
-*   🧠  I'm learning .Net framework and JavaScript
+*   🚀  I'm currently working on [Django e-commerce](https://django-deploy-uu33v.ondigitalocean.app/myapp/)
+*   🧠  I'm learning React-Redux and how to build complex MERN applications
 *   🤝  I'm open to collaborating on any open source project
 <a href="https://www.twitter.com/kash_quiggins" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/kash_quiggins?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
