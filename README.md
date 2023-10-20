@@ -7,7 +7,7 @@ Software Developer
 I am a Software Developer/Freelancer who loves creating full stack MERN applications and contributing to open source.
 
 *   🌍  I'm based in Louisville, Kentucky
-*   🖥️  See my portfolio at [Ken's Code](https://kashfamilyvalues.editorx.io/kens-code)
+*   🖥️  See my portfolio at [Ken's Code](https://www.kenscode.dev)
 *   ✉️  You can contact me at [kashfamilyvalues@gmail.com](mailto:kashfamilyvalues@gmail.com)
 *   🚀  I'm currently working on [Django e-commerce](https://django-deploy-uu33v.ondigitalocean.app/myapp/)
 *   🧠  I'm learning React-Redux and how to build complex MERN applications
