@@ -9,8 +9,8 @@ I am a Software Developer/Freelancer who loves creating full stack MERN applicat
 *   🌍  I'm based in Louisville, Kentucky
 *   🖥️  See my portfolio at [Ken's Code](https://www.kenscode.dev)
 *   ✉️  You can contact me at [kashfamilyvalues@gmail.com](mailto:kashfamilyvalues@gmail.com)
-*   🚀  I'm currently working on [Django e-commerce](https://django-deploy-uu33v.ondigitalocean.app/myapp/)
-*   🧠  I'm learning React-Redux and how to build complex MERN applications
+*   🚀  I recently built a MERN application with Redux and React [HackerShop](https://hackersshop.onrender.com)
+*   🧠  I'm currently working on learning NextJS and more about server components
 *   🤝  I'm open to collaborating on any open source project
 <a href="https://www.twitter.com/kash_quiggins" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/kash_quiggins?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
