@@ -4,17 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a Software Developer/Freelancer who loves creating full stack MERN applications and contributing to open source.
+I’m a Software Developer from Louisville, KY. I build full-stack React applications and am looking for a welcoming team of developers to collaborate with on challenging projects, share knowledge, and continue growing my skills.
 
 *   🌍  I'm based in Louisville, Kentucky
 *   🖥️  See my portfolio at [Ken's Code](https://www.kenscode.dev)
 *   ✉️  You can contact me at [kashfamilyvalues@gmail.com](mailto:kashfamilyvalues@gmail.com)
-*   🚀  I recently built a MERN application with Redux and React [HackerShop](https://hackersshop.onrender.com)
-*   🧠  I'm currently working on learning NextJS and more about server components
-*   🤝  I'm open to collaborating on any open source project
-<a href="https://www.twitter.com/kash_quiggins" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/kash_quiggins?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+*   🚀  I recently built a Full-Stack NextJS comic book e-commerce shop  [Comic Shop](https://nextjs-ecommerce-sable-eta.vercel.app/)
+*   🧠  I'm currently working on getting a full-time developer job and gaining new skills as a developer
+*   🤝  I'm open to collaborating and working with other developers inthe tech community
+
 
 ### Skills 
 <p align="left">
@@ -38,17 +36,31 @@ I am a Software Developer/Freelancer who loves creating full stack MERN applicat
                     
 ### Socials
                   
-<p align="left"> <a href="https://www.github.com/KQuiggins" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kenneth-quiggins" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kash_quiggins" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KQuiggins)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-quiggins)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kash_quiggins)
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/KQuiggins"><img src="https://github-readme-stats.vercel.app/api?username=KQuiggins&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KQuiggins's GitHub stats" /></a>
+<a href="https://github.com/KQuiggins">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=KQuiggins&theme=dark" 
+    alt="KQuiggins's GitHub stats" 
+  />
+</a>
+
 
 <a href="http://www.github.com/KQuiggins"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KQuiggins&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/KQuiggins"><img src="https://activity-graph.herokuapp.com/graph?username=KQuiggins&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/KQuiggins">
+  <img
+    src="https://activity-graph.vercel.app/graph?username=KQuiggins&custom_title=GitHub%20Commits%20Graph"
+    alt="GitHub Commits Graph"
+  />
+</a>
+
 
 <a href="https://github.com/KQuiggins" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KQuiggins&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
